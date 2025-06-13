@@ -1,4 +1,5 @@
-{
+{"flag":true,"msg":"Successfull get app data.","data":
+    {
      "name":"lvcfree",
      "islive":"0",
      "googleadmob":"0",
@@ -18,7 +19,7 @@
      "isqlink":"asd",
      "qisshow":"0",
      "gamelink":"0",
-     "lvlink":"https://sonalipatel2102.github.io/livevideocall/",
+     "lvlink":"http://qct.quickcodetechnologies.com/livevideocall/qctvideos/",
      "startapp":"asd",
      "isstartapp":"0",
      "appnext":"0",
@@ -48,4 +49,5 @@
      "first":"0",
      "main":"0",
      "vpn":"0"
+  }
 }
