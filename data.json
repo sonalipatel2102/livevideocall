@@ -1,6 +1,6 @@
 {"flag":true,"msg":"Successfull get app data.","data":
     {
-        "availablevid" : "12",
+        "availablevid":12,
         "adslink":"https://quiz580.gamereo.com",
         "privacylink":"https://quiz580.gamereo.com",
         "lvlink":"http://qct.quickcodetechnologies.com/livevideocall/qctvideos/"
